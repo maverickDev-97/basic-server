@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "licensePlate": "AO4506CE",
+      "id": "Kb2IOjheaVdDMEQu08Nuz"
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "licensePlate": "KA5533AA",
+      "id": "23mGRGLzcJYn_ea10wxy5"
+    },
+    {
+      "make": "BMW",
+      "model": "535i",
+      "licensePlate": "AA2211AA",
+      "id": "3UdwHPh8OSy74Wwtnz0PG"
+    },
+    {
+      "make": "BMW",
+      "model": "525d",
+      "licensePlate": "AA1010AA",
+      "id": "UdgaQXLM8TXbvFRktZazc"
+    },
+    {
+      "make": "Acura",
+      "model": "TSX",
+      "licensePlate": "AA1234AA",
+      "id": "eQBQiJ8tqgpoFQ6_9VcC7"
+    },
+    {
+      "make": "BMW",
+      "model": "760Li",
+      "licensePlate": "AP3602AM",
+      "id": "A1XncQ6L6EKrbO0HLQWux"
+    },
+    {
+      "make": "Acura",
+      "model": "TLX",
+      "licensePlate": "AA1234AM",
+      "id": "ZtIwarFeZj9zr7i15DZt2"
+    }
+  ]
+}
